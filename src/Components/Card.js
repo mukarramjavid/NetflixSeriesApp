@@ -8,8 +8,8 @@ return(
         {
             SData.map((val)=>{
                 return(
-                    <Col md={4} xs={12} key={val.id} className="CardStyle">
-                        <Card >
+                    <Col md={4} xs={12} key={val.id} >
+                        <Card className="CardStyle">
                             <Card.Img variant="top" src={val.img} />
                             <Card.Body>
                                 <Card.Title className="movieTitle">{val.title}</Card.Title>

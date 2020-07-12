@@ -10,7 +10,7 @@ body{
   font-weight: 600;
 }
 .CardStyle{
-  border-radius: 50px;
+  border-radius: 10px;
 }
 .CardStyle:hover{
   box-shadow: 5px 10px #3e3737;

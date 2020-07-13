@@ -11,7 +11,7 @@ function App() {
     </Alert>
     <Cards/>
      <Alert variant='danger'>
-         <h1 className="title">Top 5 Netflix Series</h1>
+         Top 5 Netflix Series
     </Alert>
     </>
   );

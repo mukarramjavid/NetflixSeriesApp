@@ -10,9 +10,6 @@ function App() {
          <h1 className="title">Top 5 Netflix Series</h1>
     </Alert>
     <Cards/>
-     <Alert variant='danger'>
-         Top 5 Netflix Series
-    </Alert>
     </>
   );
 }

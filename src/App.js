@@ -6,7 +6,7 @@ import {Alert} from 'react-bootstrap'
 function App() {
   return (
     <>
-    <Alert variant='danger'>
+    <Alert variant='primary'>
          <h1 className="title">Top 5 Netflix Series</h1>
     </Alert>
     <Cards/>

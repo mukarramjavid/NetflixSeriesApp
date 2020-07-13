@@ -18,7 +18,7 @@ return(
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className="btnClass">
-                                <Button variant="outline-secondary" href={val.link} target="_blank" >Watch Now</Button>
+                                <Button variant="outline-primary" href={val.link} target="_blank" >Watch Now</Button>
                             </Card.Footer>
                         </Card><br/>
                     </Col>

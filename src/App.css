@@ -12,11 +12,7 @@ body{
 .CardStyle{
   border-radius: 10px;
 }
-.CardStyle:hover{
-  box-shadow: 5px 10px #3e3737;
-  cursor: pointer;
-  transition:0.7s;
-}
+
 .movieTitle{
   text-align: center;
   font-family: 'Poppins', sans-serif;

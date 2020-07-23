@@ -15,7 +15,7 @@ body{
   cursor:pointer;
 }
 .CardStyle:hover{
-  transform:scale(1.2);
+  transform:scale(0.8);
   box-shadow:5px 5px 15px rgba(0,0,0,0.6);
 }
 .movieTitle{

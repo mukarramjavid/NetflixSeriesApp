@@ -11,8 +11,13 @@ body{
 }
 .CardStyle{
   border-radius: 10px;
+  transition:0.5s ease;
+  cursor:pointer;
 }
-
+.CardStyle{
+  transform:scale(1.2);
+  box-shadow:5px 5px 15px rgba(0,0,0,0.6);
+}
 .movieTitle{
   text-align: center;
   font-family: 'Poppins', sans-serif;

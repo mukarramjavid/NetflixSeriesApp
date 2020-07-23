@@ -15,7 +15,7 @@ body{
   cursor:pointer;
 }
 .CardStyle:hover{
-  transform:scaleY(1.1);
+  transform:scale(1.1);
     box-shadow:5px 5px 15px rgba(0,0,0,0.6);
 
 }
